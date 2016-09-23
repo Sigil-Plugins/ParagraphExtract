@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<name>ParagraphExtract</name>
+<type>edit</type>
+<author>tamchec</author>
+<description>adds incremental ids</description>
+<autostart>true</autostart>
+<engine>python2.7</engine>
+<engine>python3.4</engine>
+<version>0.3</version>
+<oslist>unx,win,osx</oslist>
+</plugin>
