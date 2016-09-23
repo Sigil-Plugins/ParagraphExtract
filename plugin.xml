@@ -3,7 +3,7 @@
 <name>ParagraphExtract</name>
 <type>edit</type>
 <author>tamchec</author>
-<description>adds incremental ids</description>
+<description>paragraph extract</description>
 <autostart>true</autostart>
 <engine>python2.7</engine>
 <engine>python3.4</engine>
